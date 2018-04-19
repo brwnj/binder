@@ -6,6 +6,7 @@ dependencies:
     - python
     - pandas
     - plotly
+    - qgrid
     - pip
     - pip:
       - cufflinks
