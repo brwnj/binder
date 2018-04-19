@@ -1,0 +1,11 @@
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - numpy
+    - python
+    - pandas
+    - plotly
+    - pip
+    - pip:
+      - cufflinks
