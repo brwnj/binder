@@ -3,10 +3,7 @@ channels:
     - defaults
 dependencies:
     - numpy
-    - python
+    - python>=3
     - pandas
-    - plotly
+    - plotly>=3.0.0
     - qgrid
-    - pip
-    - pip:
-      - cufflinks
